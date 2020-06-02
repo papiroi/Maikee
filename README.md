@@ -1,10 +1,10 @@
 # <img src="https://i.imgur.com/ATrHvQ5.jpg" width=320 height=240/>
 
 # The Adventures of Maikee in Outer Space
-The Adventures of Maikee in Outer Space is a rather simple game written in Java 8 as a school project.
+The Adventures of Maikee in Outer Space is a simple game written in Java 8 as a college project.
 
 ## Gameplay
-Avoid asteroids or shoot them with green lazors! Your choice!
+Avoid asteroids or shoot them with green lasers! Your choice!
 Maneuver your vehicle with \[W] and \[S] keys to traverse your shuttle up and down, respectively.
 Fire the laser with \[Space] button.
 
